@@ -39,3 +39,4 @@ PlayerConnectedEH = addMissionEventHandler ["PlayerConnected", {
 	PlayerConnectedData pushBack _this;
 	publicVariable "PlayerConnectedData";
 }];
+[] execVM "arty.sqf";

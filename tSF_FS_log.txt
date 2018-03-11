@@ -1,0 +1,13 @@
+"####### tSF File Sweeper Engaged #######" 
+Mission directory:     C:\Users\VonScheer\Documents\Arma 3\mpmissions\CO26_Blessed_By_Fire_1A.cain\ 
+Mission fodler name:   CO26_Blessed_By_Fire_1A 
+Removing tSF Helpers 
+Removing DynAI Helpers 
+Removing unused tSF Modules 
+    Folder is not used: Removing FARP 
+    Folder is not used: Removing AirborneSupport 
+    Folder is not used: Removing Interactives 
+    Folder is not used: Removing EditorVehicleCrew 
+    Folder is not used: Removing EditorRadioSettings 
+    Folder is not used: Removing Conversations 
+Done! 

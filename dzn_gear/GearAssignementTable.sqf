@@ -23,6 +23,6 @@ A "Para 1'1 Section Leader"			TO "kit_brit_sl" KIT
 , A "Missile No.2"	TO "kit_brit_amsl" KIT
 , A "Para 1'0 Platoon Leader"			TO "kit_brit_pl" KIT
 , A "Platoon Sergeant"			TO "kit_brit_sl" KIT
-, A "JTAC"					TO "kit_brit_sl" KIT
+, A "JTAC"					TO "kit_brit_jtac" KIT
 , A "Para 1'2 Section Leader"			TO "kit_brit_sl" KIT
 , A "Pilot" TO "kit_brit_pilot" KIT

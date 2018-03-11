@@ -43,7 +43,7 @@ dzn_dynai_enableCaching				= true;
 dzn_dynai_cachingTimeout			= 20; // seconds
 dzn_dynai_cacheCheckTimer			= 15; // seconds
 
-dzn_dynai_cacheDistance				= 800; // meters
+dzn_dynai_cacheDistance				= 1000; // meters
 
 // Zeus Compatibility settings
 dzn_dynai_enableZeusCompatibility	= true;
